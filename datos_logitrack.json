@@ -1,0 +1,36 @@
+{
+  "centros": [
+    {
+      "id": 1,
+      "nombre": "Heredia",
+      "ubicacion": "Santa Barbara",
+      "paquetes": [
+        {
+          "id": 1,
+          "descripcion": "23 kg",
+          "destino": "San Juan",
+          "estado": "nuevo"
+        },
+        {
+          "id": 2,
+          "descripcion": "4343 kg",
+          "destino": "San Juan",
+          "estado": "nuevo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Heredia",
+      "ubicacion": "San Pablo",
+      "paquetes": [
+        {
+          "id": 1,
+          "descripcion": "434kg",
+          "destino": "Heredia Centro",
+          "estado": "nuevo"
+        }
+      ]
+    }
+  ]
+}
